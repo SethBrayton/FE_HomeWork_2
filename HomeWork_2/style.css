@@ -1,0 +1,19 @@
+.Main {
+  width: 175px;
+  text-align: center;
+  font-weight: bold;
+}
+
+/* *td > :nth-child(n+4) {} */
+
+td > img {
+  width: 85px;
+}
+
+.Window {
+  text-align: center;
+  font-size: larger;
+}
+
+tr:nth-child(3n) {
+}
